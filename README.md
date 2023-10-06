@@ -6,11 +6,8 @@ Constraints related to the elimination of subtours have undergone modifications 
 
 The objective function according to Miller - Tucker - Zemlin is:
 
-∑𝑛
-𝑖=0 ∑𝑛
-𝑗=0 𝑐𝑖𝑗𝑥𝑖𝑗 (1)
+![image](https://github.com/LamprosGan/Capacitated-Vehicle-Routing-Problem-CVRP/assets/101817382/8e793604-c06c-4260-b1cd-2eca86ec3a4a)
 
-With constraints:
 
 ∑𝑛
 𝑖=1 𝑥0𝑖 <= 𝑚 (2)
